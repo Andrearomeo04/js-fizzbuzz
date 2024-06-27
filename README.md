@@ -30,3 +30,4 @@ problema 3 "per i multipli di 5 stampa "Buzz""
 problema 4 "per i numeri che sono sia multipli di 3 che di 5 stampi “FizzBuzz”
 1.applico una condizione se, in cui andrò a mettere a confronto le due condizioni precedenti tramite l'operatore logico and
 2.se la condizione è vera, allora verrà motrato "FizzBuzz"
+3.posiziono questa condizione come prima condizione del for
